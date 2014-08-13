@@ -10,10 +10,10 @@
     "test": "node test.js"
   },
   "dependencies": {
-    "duplexer2": "^0.0.2"
+    "duplexer2": "^0.0.2",
+    "readable-stream": "^1.0.27-1"
   },
   "devDependencies": {
-    "tape": "^2.14.0",
-    "readable-stream": "^1.0.27-1"
+    "tape": "^2.14.0"
   }
 }
